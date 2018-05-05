@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D22E0063-8517-42D0-981E-DF97E8CCDEC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OFLNPlayer/CustomCollectionSource.cs">
+    <Files>
+      <File FileName="OFLNPlayer/LaunchScreen.storyboard" />
+      <File FileName="OFLNPlayer/Main.storyboard" />
+      <File FileName="OFLNPlayer/ViewController.cs" Line="36" Column="3" />
+      <File FileName="OFLNPlayer/Video.cs" Line="2" Column="14" />
+      <File FileName="OFLNPlayer/VideoViewController.cs" Line="21" Column="10" />
+      <File FileName="OFLNPlayer/CustomCollectionViewCell.cs" Line="32" Column="78" />
+      <File FileName="OFLNPlayer/CustomCollectionSource.cs" Line="2" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OFLNPlayer PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.86315A7B-CFE5-4F1A-B585-1716725AD9A2" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.OFLNPlayer>
+</Properties>
